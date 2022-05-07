@@ -1,0 +1,7 @@
+include
+lib
+bin
+.idea
+Makefile
+vendor
+LICENCE
